@@ -1,2 +1,20 @@
-# festa-major-deltebre
-Desenvolupament d'una web sobre la Festa Major de Deltebre
+\# Festa Major de Deltebre
+
+
+
+\## Benvinguts!
+
+
+
+Aquest projecte està dedicat a la Festa Major de Deltebre.
+
+
+
+\### Novetats
+
+\- Creació de la pàgina web.
+
+\- Informació sobre les activitats.
+
+\- Programa de la festa.
+
